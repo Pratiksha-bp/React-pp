@@ -1,0 +1,27 @@
+[
+    
+    {
+      "role": "Full Stack Java Development Intern",
+      "organisation": " Aspire technology solutions",
+      "startDate": "Nov, 2023",
+      "endDate": "Aug, 2024",
+      "experiences":["Developed a employee management system using java, spring boot, MySQL, HTML, CSS, Bootstrap, React JS. Employee management system is a web-based application that streamline employee data management.Enhanced organizational efficiency and productivity with employee records."]
+      
+    },
+    {
+      "role": "Java developer Intern",
+      "organisation": "Sai info-corp Solutions",
+      "startDate": "Jan 2022",
+      "endDate": "March 2022",
+      "experiences": ["Back-End Technology: Developed proficiency in java development. Worked closely with cross-functional teams to design, develop, test Java-based applications."]
+      
+    },
+    {
+      "role": "Intern",
+      "organisation": "Cad desk India",
+      "startDate": "Nov 2021",
+      "endDate": "Jan 2022",
+      "experiences": ["Front-End Technology: Developed proficiency in HTML,CSS"]
+      
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JS",
+      "imageSrc": "skills/jsupdate.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Springboot",
+      "imageSrc": "skills/springbbot.png"
+    },
+    {
+      "title": "C & C++",
+      "imageSrc": "skills/candcpp (1).png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    }
+  ]

@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "High risk assessment in Cardiovascular diseases using Machine Learning",
+      "skills": ["Pyhton", "MySQL", "Bootstrap" , "HTML", "CSS"],
+      "demo": "https://github.com/Pratiksha-bp",
+      "source": "https://github.com/Pratiksha-bp"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "Personal React Portfolio Website",
+      "skills": ["React", "JSX", "JS","Hooks"],
+      "demo": "https://github.com/Pratiksha-bp",
+      "source": "https://github.com/Pratiksha-bp"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "Conflix Technologies , Developed a employee management system",
+      "skills": ["Java", "Springboot", "JS","React Js","MySQL"],
+      "demo": "https://github.com/Pratiksha-bp",
+      "source": "https://github.com/Pratiksha-bp"
+    }
+    
+  ]

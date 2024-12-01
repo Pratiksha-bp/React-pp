@@ -1,0 +1,109 @@
+
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(56, 7, 52, 0.6);
+  border-radius: 15px;
+  padding: 73px;
+  margin-top: 129px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 4px #f61fa4;
+
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.educationImage {
+  height: 55%;
+  width: 55%;
+}
+
+
+.educationItems {
+  color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.educationItem {
+  color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  list-style: none;
+  padding: 25px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(32, 2, 25, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-color: rgb(242, 212, 62);
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+  filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(248, 224, 2, 0.5));
+}
+
+.educationItem:hover {
+  
+  background-size: 100% 100%;
+}
+
+.educationItem h3 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.educationItem p {
+  font-size: 15px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+   background-color: rgb(131, 36, 36);
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .educationImage {
+    
+    
+    width: 100%;
+    height: auto;
+    display: none;
+    
+  }
+
+  .educationItems {
+    margin-top: 29px;
+    margin-right: 100px;
+  }
+
+  .educationItem {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
